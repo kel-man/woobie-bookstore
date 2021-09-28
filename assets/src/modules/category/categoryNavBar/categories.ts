@@ -6,4 +6,5 @@ export const categories = {
   home: "Home Improvement",
   cars: "Cars",
   woodwork: "Woodwork",
+  textbooks: "Textbooks",
 }
